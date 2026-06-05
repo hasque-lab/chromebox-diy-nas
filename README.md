@@ -17,11 +17,9 @@ Turn an old x86 Chromebox into a compact DIY NAS-style home server.
 
 ---
 
-## 📸 Final build gallery
+![Logo](/gallery/BlueprintImage.png)
 
-Final build photos are stored on a separate gallery page:
-
-➡️ **[Open final build gallery](gallery/gallery.md)**
+➡️ **[Final build photos are stored on a separate gallery pagey](gallery/gallery.md)**
 
 ---
 
