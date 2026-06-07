@@ -30,7 +30,7 @@ Reference appearance:
 <table>
   <tr>
     <td width="100%">
-      <img src="../gallery/parts/aluminium_legs1.jpg" alt="Aluminium furniture handle used as enclosure feet" width="100%">
+      <img src="pictures/aluminium_legs1.jpg" alt="Aluminium furniture handle used as enclosure feet" width="100%">
       <br>
       <sub>General appearance</sub>
     </td>
@@ -41,7 +41,7 @@ Reference appearance:
 
 Reference listing screenshot:
 
-![screenshot](/gallery/parts/aluminium_legs6.jpg)
+![screenshot](pictures/aluminium_legs6.jpg)
 
 ### Search keywords
 
@@ -62,24 +62,24 @@ Reference photos:
 <table>
   <tr>
     <td width="50%">
-      <img src="../gallery/parts/aluminium_legs2.jpg" alt="Aluminium handle foot measurement 1" width="100%">
+      <img src="pictures/aluminium_legs2.jpg" alt="Aluminium handle foot measurement 1" width="100%">
       <br>
       <sub>Measurement 1</sub>
     </td>
     <td width="50%">
-      <img src="../gallery/parts/aluminium_legs5.jpg" alt="Aluminium handle foot measurement 4" width="100%">
+      <img src="pictures/aluminium_legs5.jpg" alt="Aluminium handle foot measurement 4" width="100%">
       <br>
       <sub>Measurement 4</sub>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <img src="../gallery/parts/aluminium_legs3.jpg" alt="Aluminium handle foot measurement 2" width="100%">
+      <img src="pictures/aluminium_legs3.jpg" alt="Aluminium handle foot measurement 2" width="100%">
       <br>
       <sub>Measurement 2</sub>
     </td>
     <td width="50%">
-      <img src="../gallery/parts/aluminium_legs4.jpg" alt="Aluminium handle foot measurement 3" width="100%">
+      <img src="pictures/aluminium_legs4.jpg" alt="Aluminium handle foot measurement 3" width="100%">
       <br>
       <sub>Measurement 3</sub>
     </td>
