@@ -26,12 +26,12 @@ Reference listing screenshots:
 <table>
   <tr>
     <td width="65%">
-      <img src="/pictures/HDD_Shock_Absorption6.jpg" alt="AliExpress listing example for 3.5 HDD rubber rails" width="100%">
+      <img src="pictures/HDD_Shock_Absorption6.jpg" alt="AliExpress listing example for 3.5 HDD rubber rails" width="100%">
       <br>
       <sub>Example listing</sub>
     </td>
     <td width="35%">
-      <img src="/pictures/HDD_Shock_Absorption5.jpg" alt="AliExpress dimensions screenshot for 3.5 HDD rubber rails" width="100%">
+      <img src="pictures/DD_Shock_Absorption5.jpg" alt="AliExpress dimensions screenshot for 3.5 HDD rubber rails" width="100%">
       <br>
       <sub>Seller dimension reference</sub>
     </td>
