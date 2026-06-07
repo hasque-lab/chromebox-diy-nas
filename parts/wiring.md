@@ -29,7 +29,7 @@ The plastic connector housings can be disassembled carefully. With a toothpick o
 
 Reference appearance:
 
-![JST VH 3.96 pre-crimped wire harnesses](pictures/parts/wiring1.jpg)
+![JST VH 3.96 pre-crimped wire harnesses](pictures/wiring1.jpg)
 
 ---
 
