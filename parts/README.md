@@ -6,4 +6,4 @@ Each page describes one specific component or part group, including its purpose,
 
 For the main parts overview and navigation table, see:
 
-➡️ [Parts list navigation](parts.md)
+➡️ [Parts list navigation](/parts.md)
