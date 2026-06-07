@@ -100,7 +100,7 @@ The current tests show that the storage section works well without forced HDD co
 
 The full parts list is maintained on a separate page:
 
-➡️ **[Open parts list](docs/parts.md)**
+➡️ **[Open parts list](/parts.md)**
 
 ---
 
@@ -108,7 +108,7 @@ The full parts list is maintained on a separate page:
 
 The full physical assembly guide is maintained on a separate page:
 
-➡️ **[Open assembly guide](docs/assembly.md)**
+➡️ **[Open assembly guide](/assembly.md)**
 
 ---
 
@@ -116,7 +116,7 @@ The full physical assembly guide is maintained on a separate page:
 
 The Chromebox-specific preparation guide is maintained separately:
 
-➡️ **[Open Chromebox preparation guide](docs/chromebox-preparation.md)**
+➡️ **[Open Chromebox preparation guide](/chromebox-preparation.md)**
 
 ---
 
