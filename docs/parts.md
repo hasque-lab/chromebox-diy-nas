@@ -286,7 +286,7 @@ In this build they have two functions:
 
 This is a common generic part sold by many sellers. The exact listing may disappear, so it is better to identify the part by its shape, dimensions, and mounting style rather than by a single product link.
 
-> [!IMPORTANT]
+> IMPORTANT
 > Make sure you buy the version for **3.5" HDDs**. Similar-looking parts for **2.5" drives** are smaller and will not fit this design correctly.
 
 ---
