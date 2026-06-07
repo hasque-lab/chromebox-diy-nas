@@ -20,4 +20,8 @@ The current build uses a custom 3D-printed case, an x86 Chromebox board, interna
 | 12 | Vibration damping          | [Vibration damping](/parts/hdd_screws.md)       |
 | 04 | AC input parts             | [Aluminium feet](/parts/feets.md)             |
 
+
+болты
+sata кабели
+sata контроллер
 ---
