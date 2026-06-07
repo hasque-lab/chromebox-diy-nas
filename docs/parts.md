@@ -24,7 +24,7 @@ The current build uses a custom 3D-printed case, an x86 Chromebox board, interna
 
 <a id="chromebox"></a>
 
-## 01 — 💻 Chromebox
+## 💻 Chromebox
 
 | Field        | Value                                                |
 | ------------ | ---------------------------------------------------- |
@@ -110,7 +110,7 @@ assets/photos/parts/enclosure-drive-bay.jpg
 
 <a id="ac-dc-psu"></a>
 
-## 03 — 🔌 AC-DC PSU
+## 🔌 AC-DC PSU
 
 | Field        | Value                                                               |
 | ------------ | ------------------------------------------------------------------- |
@@ -160,7 +160,7 @@ This means the PSU is not operated near its limit during the tested worst-case l
 
 <a id="ac-input-parts"></a>
 
-## 04 — ⚡ AC input parts
+## ⚡ AC input parts
 
 
 | Field        | Value                                                  |
@@ -193,7 +193,7 @@ Before buying an alternative, verify:
 
 <a id="vibration-damping"></a>
 
-## 12 — 🧽 3.5" HDD vibration rails
+## 🧽 3.5" HDD vibration rails
 
 | Field    | Value                                                                                                            |
 | -------- | ---------------------------------------------------------------------------------------------------------------- |
