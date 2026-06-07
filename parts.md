@@ -24,4 +24,6 @@ The current build uses a custom 3D-printed case, an x86 Chromebox board, interna
 болты
 sata кабели
 sata контроллер
+кабельные стяжки
+инструменты (отвертка, кусачки, паяльник)
 ---
