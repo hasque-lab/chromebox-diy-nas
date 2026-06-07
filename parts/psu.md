@@ -16,7 +16,8 @@
 
 The current build uses a **Mean Well RPS-65-12**.
 
->I do not recommend replacing it with a random low-cost AC-DC module. The RPS series is a certified medical/open-frame power supply family designed for built-in equipment (medical / biochemical inspection instruments / BF-rated patient-contact medical equipment when used with appropriate system design). It provides proper isolation, documented safety approvals, low >leakage current, and standard protection features such as short-circuit, overload, and overvoltage protection.
+>I do not recommend replacing it with a random low-cost AC-DC module. The RPS series is a certified medical/open-frame power supply family designed for built-in equipment (medical / biochemical inspection instruments / BF-rated patient-contact medical equipment when used with appropriate system design).
+>It provides proper isolation, documented safety approvals, low >leakage current, and standard protection features such as short-circuit, overload, and overvoltage protection.
 
 The 65 W rating is also intentionally oversized for this build.
 
