@@ -13,10 +13,10 @@ The current build uses a custom 3D-printed case, an x86 Chromebox board, interna
 
 | ID | Part                       | Section                                          |
 | -: | -------------------------- | ------------------------------------------------ |
-| 01 | x86 Chromebox              | [Chromebox](#01-chromebox)                       |
-| 02 | 3D-printed enclosure       | [Enclosure](#02-3d-printed-enclosure)            |
-| 03 | AC-DC PSU                  | [AC-DC PSU](#03-ac-dc-psu)                       |
-| 04 | AC input parts             | [AC input](#04-ac-input-parts)                   |
+| 01 | x86 Chromebox              | [Chromebox](#chromebox)                       |
+| 02 | 3D-printed enclosure       | [Enclosure](#3d-printed-enclosure)            |
+| 03 | AC-DC PSU                  | [AC-DC PSU](#ac-dc-psu)                       |
+| 04 | AC input parts             | [AC input](#ac-input-parts)                   |
 | 05 | Low-voltage wiring         | [DC wiring](#05-low-voltage-dc-wiring)           |
 | 06 | Chromebox power connector  | [Power connector](#06-chromebox-power-connector) |
 | 07 | Storage interface          | [Storage interface](#07-storage-interface)       |
@@ -24,12 +24,12 @@ The current build uses a custom 3D-printed case, an x86 Chromebox board, interna
 | 09 | SATA drives                | [Drives](#09-sata-drives)                        |
 | 10 | Screws, inserts, standoffs | [Fasteners](#10-fasteners-inserts-and-standoffs) |
 | 11 | Thermal service parts      | [Thermal parts](#11-thermal-service-parts)       |
-| 12 | Vibration damping          | [Vibration damping](#12-vibration-damping)       |
+| 12 | Vibration damping          | [Vibration damping](#vibration-damping)       |
 | 13 | Optional cooling           | [Optional cooling](#13-optional-cooling)         |
 
 ---
 
-<a id="01-chromebox"></a>
+<a id="chromebox"></a>
 
 ## 01 — 💻 Chromebox
 
@@ -75,9 +75,9 @@ assets/photos/parts/chromebox-power-input.jpg
 
 ---
 
-<a id="02-3d-printed-enclosure"></a>
+<a id="3d-printed-enclosure"></a>
 
-## 02 — 🧱 3D-printed enclosure
+## 🧱 3D-printed enclosure
 
 | Field        | Value                                                |
 | ------------ | ---------------------------------------------------- |
@@ -115,7 +115,7 @@ assets/photos/parts/enclosure-drive-bay.jpg
 
 ---
 
-<a id="03-ac-dc-psu"></a>
+<a id="ac-dc-psu"></a>
 
 ## 03 — 🔌 AC-DC PSU
 
@@ -132,8 +132,9 @@ assets/photos/parts/enclosure-drive-bay.jpg
 > Do not work on the PSU while it is connected to mains power. Verify wiring, polarity, insulation, clearances, and mechanical fixation before first power-on.
 
 
-<details>
+<details><summary><strong>Reference notes</strong></summary>
 
+<br>
 
 The current build uses a **Mean Well RPS-65-12**.
 
@@ -164,11 +165,7 @@ This means the PSU is not operated near its limit during the tested worst-case l
 
 ---
 
-<a id="04-ac-input-parts"></a>
-
-## 04 — ⚡ AC input parts
-
-<a id="04-ac-input-parts"></a>
+<a id="ac-input-parts"></a>
 
 ## 04 — ⚡ AC input parts
 
@@ -274,52 +271,98 @@ assets/photos/parts/sata-connector-alignment.jpg
 
 ---
 
-<a id="12-vibration-damping"></a>
+<a id="vibration-damping"></a>
 
-## 12 — 🧽 Vibration damping
+## 12 — 🧽 3.5" HDD vibration rails
 
-| Field        | Value                                   |
-| ------------ | --------------------------------------- |
-| Required     | Recommended                             |
-| Quantity     | 1 set                                   |
-| Current part | Rubber feet / pads                      |
-| Function     | Reduces HDD vibration and surface noise |
-| Notes        | More important for 3.5" HDD builds      |
+| Field    | Value                                                                                                            |
+| -------- | ---------------------------------------------------------------------------------------------------------------- |
+| Function | Reduces HDD vibration, slightly reduces noise, and works as guide rails for installing drives into the enclosure |
+| Notes    | Use the **3.5" HDD version**. Do not accidentally buy the 2.5" version                                           |
 
-Typical parts:
-
-* rubber feet;
-* silicone pads;
-* thin foam strips;
-* anti-vibration washers.
-
-<details>
-<summary><strong>How to choose alternatives</strong></summary>
+<details><summary><strong>How to choose an alternative / reference notes</strong></summary>
 
 <br>
 
-Search keywords:
+These rubber parts are screwed directly to the side mouning holes of a 3.5" hard drive.
+
+In this build they have two functions:
+
+* they dampen HDD vibration and slightly reduce transmitted noise;
+* they act as slide-in guide rails for installing the drive into the enclosure.
+
+This is a common generic part sold by many sellers. The exact listing may disappear, so it is better to identify the part by its shape, dimensions, and mounting style rather than by a single product link.
+
+> [!IMPORTANT]
+> Make sure you buy the version for **3.5" HDDs**. Similar-looking parts for **2.5" drives** are smaller and will not fit this design correctly.
+
+---
+
+Reference listing screenshots:
+
+<table>
+  <tr>
+    <td width="65%">
+      <img src="../gallery/parts/HDD_Shock_Absorption6.jpg" alt="AliExpress listing example for 3.5 HDD rubber rails" width="100%">
+      <br>
+      <sub>Example listing</sub>
+    </td>
+    <td width="35%">
+      <img src="../gallery/parts/HDD_Shock_Absorption5.jpg" alt="AliExpress dimensions screenshot for 3.5 HDD rubber rails" width="100%">
+      <br>
+      <sub>Seller dimension reference</sub>
+    </td>
+  </tr>
+</table>
+
+### Search keywords
+
+AliExpress-style search terms:
 
 ```text
-rubber feet electronics
-silicone vibration pad
-HDD anti vibration washer
-adhesive rubber bumper
+Hard Disk Drive Shock Absorption Screws
+HDD Shock Absorption Screws
+Case Shockproof Screws Shockproof Screws + Shock Absorption 3.5-inch
 ```
 
-Check:
+---
 
-* temperature resistance;
-* adhesive strength;
-* compression;
-* clearance;
-* whether the material touches hot components.
+### Reference measurements
 
-Reference photos to add:
+| Measurement |  Value |
+| ----------- | -----: |
+| Length      | 11.2-11.3mm |
+| Width 1     | 10 mm |
+| Width 2     | 7.5 mm |
 
-```text
-assets/photos/parts/rubber-feet.jpg
-assets/photos/parts/vibration-pad-placement.jpg
-```
+Recommended reference photos:
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="../gallery/parts/HDD_Shock_Absorption2.jpg" alt="3.5 HDD rubber rail length measurement" width="100%">
+      <br>
+      <sub>Length measurement</sub>
+    </td>
+    <td width="50%">
+      <img src="../gallery/parts/HDD_Shock_Absorption3.jpg" alt="3.5 HDD rubber rail first width measurement" width="100%">
+      <br>
+      <sub>Width 1 measurement</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="../gallery/parts/HDD_Shock_Absorption4.jpg" alt="3.5 HDD rubber rail second width measurement" width="100%">
+      <br>
+      <sub>Width 2 measurement</sub>
+    </td>
+    <td width="50%">
+      <img src="../gallery/parts/HDD_Shock_Absorption1.jpg" alt="3.5 HDD rubber rails on table" width="100%">
+      <br>
+      <sub>General appearance</sub>
+    </td>
+  </tr>
+</table>
 
 </details>
+
