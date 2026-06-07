@@ -1,4 +1,4 @@
-# 🧰 Chromebox DIY NAS — Hardware Build Guide
+# 🧰 Chronology - Chromebox based DIY NAS
 
 Turn an old x86 Chromebox into a compact DIY NAS-style home server.
 
