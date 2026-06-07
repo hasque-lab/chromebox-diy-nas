@@ -13,12 +13,12 @@ The current build uses a custom 3D-printed case, an x86 Chromebox board, interna
 
 | ID | Part                       | Section                                          |
 | -: | -------------------------- | ------------------------------------------------ |
-| 01 | x86 Chromebox              | [Chromebox](/parts/chromebox.md)                       |
-| 02 | 3D-printed enclosure       | [Enclosure](/parts/3d-printed-enclosure.md)            |
-| 03 | AC-DC PSU                  | [AC-DC PSU](/parts/ac-dc-psu.md)                       |
-| 04 | AC input parts             | [AC input](/parts/ac-input.md)                   |
-| 12 | Vibration damping          | [Vibration damping](/parts/hdd_screws.md)       |
-| 04 | AC input parts             | [Aluminium feet](/parts/feets.md)             |
+| 00 | x86 Chromebox              | [Chromebox](/parts/chromebox.md)                       |
+| 01 | 3D-printed enclosure       | [Enclosure](/parts/3d-printed-enclosure.md)            |
+| 02 | AC-DC PSU                  | [AC-DC PSU](/parts/ac-dc-psu.md)                       |
+| 03 | AC input parts             | [AC input](/parts/ac-input.md)                   |
+| 04 | Case feet                  | [Aluminium feet](/parts/feet.md)             |
+| 05 | Vibration damping          | [Vibration damping](/parts/hdd_screws.md)       |
 
 
 болты
