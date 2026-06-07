@@ -79,6 +79,7 @@ assets/photos/parts/chromebox-power-input.jpg
 
 ## 02 — 🧱 3D-printed enclosure
 
+| Field        | Value                                                |
 | ------------ | ---------------------------------------------------- |
 | Page link    | TBD                                                  |
 | Function     | Main x86 board                                       |
@@ -89,6 +90,7 @@ assets/photos/parts/chromebox-power-input.jpg
 <details>
 The enclosure contains:
 
+| Field                    | Value                                                     |
 | ------------------------ | --------------------------------------------------------- |
 | **Core chassis**         | Main load-bearing internal structure                      |
 | **Outer support frame**  | Secondary frame installed over the core chassis           |
@@ -117,6 +119,7 @@ assets/photos/parts/enclosure-drive-bay.jpg
 
 ## 03 — 🔌 AC-DC PSU
 
+| Field        | Value                                                               |
 | ------------ | ------------------------------------------------------------------- |
 | Current part | **Mean Well RPS-65-12**                                             |
 | Output       | 12 V / 5.42 A                                                       |
@@ -143,6 +146,10 @@ Measured maximum power consumption in the current test setup:
 | Test condition                                                      | Measured power |
 | ------------------------------------------------------------------- | -------------: |
 | CPU + iGPU + RAM stress test + HDD Victoria mechanical/surface test |         < 35 W |
+| IDLE + HDD not parked                                               |         < 18 W |
+| IDLE + HDD parked                                                   |         < 14 W |
+| System OFF                                                          |          < 1 W |
+
 
 This means the PSU is not operated near its limit during the tested worst-case load. The remaining power margin is intentional and helps avoid running the PSU at the edge of its rating.
 
@@ -165,6 +172,8 @@ This means the PSU is not operated near its limit during the tested worst-case l
 
 ## 04 — ⚡ AC input parts
 
+
+| Field        | Value                                                  |
 | ------------ | ------------------------------------------------------ |
 | Current part | TBD                                                    |
 | Function     | Mains power input for the internal AC-DC PSU           |
@@ -197,6 +206,8 @@ Before buying an alternative, verify:
 
 ## 05 — 🔋 Low-voltage DC wiring
 
+
+| Field    | Value                                         |
 | -------- | --------------------------------------------- |
 | Required | ✅ Yes                                         |
 | Quantity | 1 set                                         |
@@ -212,6 +223,8 @@ Before buying an alternative, verify:
 
 ## 07 — 💾 Storage interface
 
+
+| Field        | Value                                            |
 | ------------ | ------------------------------------------------ |
 | Current part | TBD                                              |
 | Function     | Connects SATA drives to the Chromebox            |
