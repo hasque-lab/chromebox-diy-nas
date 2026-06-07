@@ -17,7 +17,6 @@ The current build uses a custom 3D-printed case, an x86 Chromebox board, interna
 | 02 | 3D-printed enclosure       | [Enclosure](#3d-printed-enclosure)            |
 | 03 | AC-DC PSU                  | [AC-DC PSU](#ac-dc-psu)                       |
 | 04 | AC input parts             | [AC input](#ac-input-parts)                   |
-
 | 12 | Vibration damping          | [Vibration damping](#vibration-damping)       |
 | 04 | AC input parts             | [Aluminium feet](#aluminium-feet)             |
 
