@@ -6,7 +6,6 @@
 | Function     | Main x86 board                                       |
 | Notes        | TBD                                                  |
 
----
 
 The enclosure contains:
 
