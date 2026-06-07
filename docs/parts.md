@@ -17,15 +17,9 @@ The current build uses a custom 3D-printed case, an x86 Chromebox board, interna
 | 02 | 3D-printed enclosure       | [Enclosure](#3d-printed-enclosure)            |
 | 03 | AC-DC PSU                  | [AC-DC PSU](#ac-dc-psu)                       |
 | 04 | AC input parts             | [AC input](#ac-input-parts)                   |
-| 05 | Low-voltage wiring         | [DC wiring](#05-low-voltage-dc-wiring)           |
-| 06 | Chromebox power connector  | [Power connector](#06-chromebox-power-connector) |
-| 07 | Storage interface          | [Storage interface](#07-storage-interface)       |
-| 08 | Drive sleds                | [Drive sleds](#08-drive-sleds)                   |
-| 09 | SATA drives                | [Drives](#09-sata-drives)                        |
-| 10 | Screws, inserts, standoffs | [Fasteners](#10-fasteners-inserts-and-standoffs) |
-| 11 | Thermal service parts      | [Thermal parts](#11-thermal-service-parts)       |
+
 | 12 | Vibration damping          | [Vibration damping](#vibration-damping)       |
-| 13 | Optional cooling           | [Optional cooling](#13-optional-cooling)         |
+| 04 | AC input parts             | [Aluminium feet](#aluminium-feet)             |
 
 ---
 
