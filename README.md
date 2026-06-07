@@ -31,9 +31,9 @@ Turn an old x86 Chromebox into a compact DIY NAS-style home server.
 * [🎯 Project goal](#project-goal)
 * [🚧 Project status](#project-status)
 * [🏗️ Hardware concept](#hardware-concept)
-* [🧩 Parts list](docs/parts.md)
-* [🛠️ Assembly guide](docs/assembly.md)
-* [💻 Chromebox preparation](docs/chromebox-preparation.md)
+* [🧩 Parts list](/parts.md)
+* [🛠️ Assembly guide](/assembly.md)
+* [💻 Chromebox preparation](/chromebox-preparation.md)
 * [📜 License](#license)
 
 
