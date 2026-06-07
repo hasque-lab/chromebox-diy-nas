@@ -8,6 +8,8 @@
 | Function     | Internal power supply for the Chromebox and drives                  |
 | Notes        | I do **not** recommend replacing this PSU with a random alternative |
 
+<br>
+
 > [!CAUTION]
 > This part works with mains voltage. Incorrect AC wiring, poor insulation, missing strain relief, or unsafe mounting may cause electric shock, fire, hardware damage, injury, or death.
 > Do not work on the PSU while it is connected to mains power. Verify wiring, polarity, insulation, clearances, and mechanical fixation before first power-on.
@@ -32,8 +34,8 @@ This means the PSU is not operated near its limit during the tested worst-case l
 
 <table>
   <tr>
-    <td width="50%"><img src="../gallery/parts/PSU_front.jpg" width="100%"></td>
-    <td width="50%"><img src="../gallery/parts/PSU_back.jpg" width="100%"></td>
+    <td width="50%"><img src="pictures/PSU_front.jpg" width="100%"></td>
+    <td width="50%"><img src="pictures/PSU_back.jpg" width="100%"></td>
   </tr>
 </table>
 
