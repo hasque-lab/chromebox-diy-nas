@@ -384,6 +384,7 @@ The current design is based around the following approximate dimensions:
 | Diameter                      | ~10 mm |
 | Total length                  | 136 mm |
 | Distance between hole centers | 128 mm |
+| Screw type                    | M4     |
 
 > IMPORTANT
 > The hole spacing and overall length are important. A handle with a different mounting distance may not fit the printed enclosure without modifying the CAD model.
