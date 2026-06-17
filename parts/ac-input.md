@@ -38,7 +38,7 @@ Reference photos:
 
 <table>
   <tr>
-    <td width="100%">
+    <td width="50%">
       <img src="pictures/AC2.jpg" alt="AC input measurement 1" width="100%">
       <br>
       <sub>Measurement 1</sub>
