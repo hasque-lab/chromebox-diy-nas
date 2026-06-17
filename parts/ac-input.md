@@ -8,10 +8,6 @@
 > IMPORTANT
 > This part is connected to mains voltage. Incorrect wiring, poor insulation, missing strain relief, or exposed live terminals may cause electric shock, fire, injury, or death.
 
-<details><summary><strong>How to choose an alternative / reference notes</strong></summary>
-
-<br>
-
 This part is the AC mains input socket used to bring power into the enclosure and feed the internal AC-DC power supply.
 
 The enclosure is designed with minimal tolerances around this component. A socket with a different body shape, flange size, mounting hole spacing, terminal position, or overall depth may not fit the printed case.
@@ -20,12 +16,12 @@ Do not assume that another visually similar AC socket will fit without checking 
 
 ---
 
-Reference appearance:
+## Reference appearance
 
 <table>
   <tr>
     <td width="100%">
-      <img src="../gallery/parts/AC1.jpg" alt="AC input socket general appearance" width="100%">
+      <img src="pictures/ac1.jpg" alt="AC input socket general appearance" width="100%">
       <br>
       <sub>General appearance</sub>
     </td>
@@ -34,24 +30,26 @@ Reference appearance:
 
 ---
 
-Reference listing screenshot:
+## Reference listing screenshot
 
 <table>
   <tr>
     <td width="60%">
-      <img src="../gallery/parts/AC5.jpg" alt="AC input socket listing example" width="100%">
+      <img src="pictures/ac5.jpg" alt="AC input socket listing example" width="100%">
       <br>
       <sub>Example listing</sub>
     </td>
     <td width="40%">
-      <img src="../gallery/parts/AC6.jpg" alt="AC input socket seller dimension reference" width="100%">
+      <img src="pictures/ac6.jpg" alt="AC input socket seller dimension reference" width="100%">
       <br>
       <sub>Seller dimension reference</sub>
     </td>
   </tr>
 </table>
 
-### Search keywords
+---
+
+## Search keywords
 
 AliExpress-style search terms:
 
@@ -63,35 +61,33 @@ TBD
 
 ---
 
-### Reference measurements
+## Reference measurements
 
 Reference photos:
 
 <table>
   <tr>
     <td width="50%">
-      <img src="../gallery/parts/AC2.jpg" alt="AC input socket measurement 1" width="100%">
+      <img src="pictures/ac2.jpg" alt="AC input socket measurement 1" width="100%">
       <br>
       <sub>Measurement 1</sub>
     </td>
     <td width="50%">
-      <img src="../gallery/parts/AC3.jpg" alt="AC input socket measurement 2" width="100%">
+      <img src="pictures/ac3.jpg" alt="AC input socket measurement 2" width="100%">
       <br>
       <sub>Measurement 2</sub>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <img src="../gallery/parts/AC4.jpg" alt="AC input socket measurement 3" width="100%">
+      <img src="pictures/ac4.jpg" alt="AC input socket measurement 3" width="100%">
       <br>
       <sub>Measurement 3</sub>
     </td>
     <td width="50%">
-      <img src="../gallery/parts/AC6.jpg" alt="AC input socket seller dimensions" width="100%">
+      <img src="pictures/ac6.jpg" alt="AC input socket seller dimensions" width="100%">
       <br>
       <sub>Seller dimensions</sub>
     </td>
   </tr>
 </table>
-
-</details>
