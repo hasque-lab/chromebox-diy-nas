@@ -12,8 +12,6 @@ This part is the AC mains input socket used to bring power into the enclosure an
 
 The enclosure is designed with minimal tolerances around this component. A socket with a different body shape, flange size, mounting hole spacing, terminal position, or overall depth may not fit the printed case.
 
-Do not assume that another visually similar AC socket will fit without checking dimensions.
-
 ---
 
 ## Reference appearance
