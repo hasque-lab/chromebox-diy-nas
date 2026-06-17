@@ -54,9 +54,9 @@ Do not assume that another visually similar AC socket will fit without checking 
 AliExpress-style search terms:
 
 ```text
-TBD
-TBD
-TBD
+C8 Male Power Socket Power Outlet Embedded Electric Connector 35mm*15mm AC 2.5A 250v 8-shaped Plug Socket
+IE320 C8 Power Plug Black 2 Terminal Power Plug Inlet Socket 2-pin terminal welding pin
+Power Socket C7 Power Outlet Embedded Electric Connector 35mm*15mm AC 2.5A 5A 250v
 ```
 
 ---
@@ -83,11 +83,6 @@ Reference photos:
       <img src="pictures/AC4.jpg" alt="AC input socket measurement 3" width="100%">
       <br>
       <sub>Measurement 3</sub>
-    </td>
-    <td width="50%">
-      <img src="pictures/AC6.jpg" alt="AC input socket seller dimensions" width="100%">
-      <br>
-      <sub>Seller dimensions</sub>
     </td>
   </tr>
 </table>
