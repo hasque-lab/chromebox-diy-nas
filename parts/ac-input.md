@@ -17,6 +17,21 @@ The AC input socket must match the specified size and shape exactly.
 The enclosure design uses minimal mechanical tolerances around this component. A socket with a different body shape, mounting hole spacing, flange size, terminal position, or overall depth may not fit the printed enclosure.
 
 Before buying an alternative, verify:
+
+
+Reference appearance:
+
+<table>
+  <tr>
+    <td width="100%">
+      <img src="pictures/AC1.jpg" alt="AC input" width="100%">
+      <br>
+      <sub>General appearance</sub>
+    </td>
+  </tr>
+</table>
+
+
 ### Reference measurements
 
 Reference photos:
