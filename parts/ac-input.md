@@ -43,13 +43,13 @@ Reference photos:
       <br>
       <sub>Measurement 1</sub>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <img src="pictures/AC3.jpg" alt="AC input measurement 2" width="100%">
       <br>
       <sub>Measurement 2</sub>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <img src="pictures/AC4.jpg" alt="AC input measurement 3" width="100%">
       <br>
