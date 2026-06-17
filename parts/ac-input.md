@@ -21,7 +21,7 @@ Do not assume that another visually similar AC socket will fit without checking 
 <table>
   <tr>
     <td width="100%">
-      <img src="pictures/ac1.jpg" alt="AC input socket general appearance" width="100%">
+      <img src="pictures/AC1.jpg" alt="AC input socket general appearance" width="100%">
       <br>
       <sub>General appearance</sub>
     </td>
