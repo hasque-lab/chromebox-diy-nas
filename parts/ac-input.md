@@ -35,12 +35,12 @@ Do not assume that another visually similar AC socket will fit without checking 
 <table>
   <tr>
     <td width="60%">
-      <img src="pictures/AC1.jpg" alt="AC input socket listing example" width="100%">
+      <img src="pictures/AC5.png" alt="AC input socket listing example" width="100%">
       <br>
       <sub>Example listing</sub>
     </td>
     <td width="40%">
-      <img src="pictures/AC6.jpg" alt="AC input socket seller dimension reference" width="100%">
+      <img src="pictures/AC6.png" alt="AC input socket seller dimension reference" width="100%">
       <br>
       <sub>Seller dimension reference</sub>
     </td>
