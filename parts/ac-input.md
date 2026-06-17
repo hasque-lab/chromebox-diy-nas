@@ -5,7 +5,7 @@
 | Function | Mains power input for the internal AC-DC power supply        |
 | Notes    | The socket must match the specified size and shape precisely |
 
-> IMPORTANT
+> [!CAUTION]
 > This part is connected to mains voltage. Incorrect wiring, poor insulation, missing strain relief, or exposed live terminals may cause electric shock, fire, injury, or death.
 
 This part is the AC mains input socket used to bring power into the enclosure and feed the internal AC-DC power supply.
